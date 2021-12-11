@@ -1,2 +1,5 @@
 Bioinformaticts-with-Python
-This repository has some basic bioinformatics activity/operations done in Python. Although, there are n number of offline and online tools doing these jobs but still, doing these jobs by own coding would give you a proper insight into how those available tools work at the coding level. Don't just copy the codes, rather try to understand the logic behind it and more importantly try to make these codes even better.
+This is a single Jupyter file which has a the function separately for all the different events of Central Dogma.
+It starts with generating random DNA string, validating it as correct DNA string, transcription, reverse transcription, generating a double stranded DNA, finding GC content of DNA string and subsection of DNA string, translation of mRNA into amino acid sequence, calculating frequency/proportion of a particular amino acid from the amino acid sequence, generating 6 reading frames, extracting all possible protein from a given aminoacid sequence, extracting all possible proteins from the 6 reading frames.
+These set of codes could be compiled in a class for easy usage and it can be used as a base for making any GUI for performing such tasks.
+Possibilities are endless and there is always a chance of improvement.
