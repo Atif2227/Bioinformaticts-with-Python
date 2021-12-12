@@ -1,12 +1,12 @@
 
 Bioinformaticts-with-Python
-This is a single Jupyter file which has a the function separately for all the different events of Central Dogma.
+This folder has set of files which has set of function separately for all the different events of Central Dogma.
 It starts with generating random DNA string, validating it as correct DNA string, transcription, reverse transcription, generating a double stranded DNA, finding GC content of DNA string and subsection of DNA string, translation of mRNA into amino acid sequence, calculating frequency/proportion of a particular amino acid from the amino acid sequence, generating 6 reading frames, extracting all possible protein from a given aminoacid sequence, extracting all possible proteins from the 6 reading frames.
 These set of codes could be compiled in a class for easy usage and it can be used as a base for making any GUI for performing such tasks.
 Possibilities are endless and there is always a chance of improvement.
 
 Info About the files:
-1. central_dogma_toolkit - it has all the functions for different events of central dogma.
-2. main - it has all the print commands.
-3. structures - it has all the structures of nucleotides and aminoacids.
-4. utilities - it has come uutilities codes.
+1. central_dogma_toolkit.py - it has all the functions for different events of central dogma.
+2. main.py - it has all the print commands.
+3. structures.py - it has all the structures of nucleotides and aminoacids.
+4. utilities.py - it has come uutilities codes.
